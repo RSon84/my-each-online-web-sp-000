@@ -7,6 +7,6 @@ def my_each(collection) # put argument(s) here
       new_collection < collection.length
       yeild(array[new_collection])
       new_collection = new_collection + 1# code here
-end
+    end
 array
 end
