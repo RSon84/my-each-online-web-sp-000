@@ -11,3 +11,5 @@ def my_each(collection) # put argument(s) here
 array
 end
 end
+
+my_each(list) {|i| puts " #{i} "}
